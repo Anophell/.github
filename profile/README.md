@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://anophel.com/build/assets/anophel.com-31a2ac80.png"  />
+  <img height="150" src="https://anophel.com/build/assets/Anophel-%20full%20name%20svg-3f84acf4.svg"  />
 </div>
 
 ###
